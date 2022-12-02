@@ -11,7 +11,7 @@ Hi Im Mashiyyat Delos Santos, Im a Fullstack Developer specializing VueJS, Nuxt,
  - [Laravel (v.7, v.8, v.9) - REST API](https://www.laravel.com/)
  - [VueJS (v.2, v.3) - Composition API, Options API](https://www.vuejs.org/)
  - [NuxtJS (v.2, v.3)](https://www.nuxtjs.org/)
- - [GraphQL - PHP Lighthouse](https://lighthouse-php.com/)
+ - [GraphQL - PHP Lighthouse](https://lighthouse-php.com/)<a href="https://www.lighthouse-php.com/" target="_blank"> <img src="https://lighthouse-php.com/logo.svg" alt="lighthouse" width="40" height="40"/> </a>
  - [GraphQL - Vue Apollo](https://v4.apollo.vuejs.org/)
  - [Typescript](https://www.typescriptlang.org/)<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
  - [Bootstrap - (v.4, v.5)](https://www.getbootstrap.com/)<a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
