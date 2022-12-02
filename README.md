@@ -27,4 +27,5 @@ Hi Im Mashiyyat Delos Santos, Im a Fullstack Developer specializing VueJS, Nuxt,
  - [Vuetify](https://next.vuetifyjs.com/en/) 
  - [Ruby on Rails](https://www.guides.rubyonrails.org/) 
  - [Adobe Photoshop](https://www.adobe.com/ph_en/products/photoshop.html) 
+ - [Adobe Illustrator](https://www.adobe.com/ph_en/products/illustrator.html) 
 
