@@ -23,6 +23,7 @@ Hi Im Mashiyyat Delos Santos, Im a Fullstack Developer specializing VueJS, Nuxt,
  - [GraphQL - PHP Lighthouse](https://lighthouse-php.com/)
  - [GraphQL - Vue Apollo](https://v4.apollo.vuejs.org/)
  - [Typescript](https://www.typescriptlang.org/)
+ - [Javascript](https://www.developer.mozilla.org/en-US/docs/Web/JavaScript)
  - [Bootstrap - (v.4, v.5)](https://www.getbootstrap.com/)
  - [Vuetify](https://next.vuetifyjs.com/en/) 
  - [Ruby on Rails](https://www.guides.rubyonrails.org/) 
