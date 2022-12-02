@@ -1,4 +1,6 @@
-Hi! Im Mashiyyat Delos Santos
-========
+# Mashiyyat Delos Santos
+> Fullstack Developer/Graphics Designer
 
-Fullstack Developer specializing VueJS, Nuxt, Laravel, GraphQL, Javascript, Typescript and other stuff, Im also a Graphics Designer (Adobe Photoshop, Adobe Illustrator)
+
+Hi Im Mashiyyat Delos Santos, Im a Fullstack Developer specializing VueJS, Nuxt, Laravel, GraphQL, Javascript, Typescript and other stuff, Im also a Graphics Designer (Adobe Photoshop, Adobe Illustrator).
+
