@@ -8,9 +8,9 @@ Hi Im Mashiyyat Delos Santos, Im a Fullstack Developer specializing VueJS, Nuxt,
 
 ## Skills and Knowledge
 
- - [Laravel (v.7, v.8, v.9) - REST API](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [VueJS (v.2, v.3) - Composition API, Options API](https://github.com/matiassingers/awesome-readme)
- - [NuxtJS (v.2, v.3)](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Laravel (v.7, v.8, v.9) - REST API](https://www.laravel.com/)
+ - [VueJS (v.2, v.3) - Composition API, Options API](https://www.vuejs.org/)
+ - [NuxtJS (v.2, v.3)](https://www.nuxtjs.org/)
  - [GraphQL - PHP Lighthouse](https://lighthouse-php.com/)
  - [GraphQL - Vue Apollo](https://v4.apollo.vuejs.org/)
  - [Typescript](https://www.typescriptlang.org/)
