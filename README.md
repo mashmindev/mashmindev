@@ -8,7 +8,7 @@ Hi Im Mashiyyat Delos Santos, Im a Fullstack Developer specializing VueJS, Nuxt,
 
 ## Skills and Knowledge
 
-<p>
+<p align="left">
  
 <a href="https://www.lighthouse-php.com/" target="_blank"> <img src="https://lighthouse-php.com/logo.svg" alt="lighthouse" width="40" height="40"/> </a>
 
