@@ -15,5 +15,5 @@ Hi Im Mashiyyat Delos Santos, Im a Fullstack Developer specializing VueJS, Nuxt,
  - [GraphQL - Vue Apollo](https://v4.apollo.vuejs.org/)
  - [Typescript](https://www.typescriptlang.org/)
  - [Bootstrap - (v.4, v.5)](https://www.getbootstrap.com/)
- - [Vuetify](https://next.vuetifyjs.com/en/) <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+ - [Vuetify](https://next.vuetifyjs.com/en/) <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"></a>
 
